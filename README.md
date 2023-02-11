@@ -1,4 +1,7 @@
 # Crypto_investment_portfolio
+
+Financil Appliccation that cluster Cryptocurrencies by their performance in different time periods. 
+
 ![An image for the header of the Repository](/Images/crypto.png)
 
 
